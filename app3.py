@@ -5,7 +5,7 @@ import numpy as np
 import gdown
 
 def download_model(file_id,output_path):
-    url = f"https://drive.google.com/uc?id={'1chOD_3za3NuN3QFBvXyEux-lqkmtH2kA'}"
+    url = f"https://drive.google.com/uc?id={'1rgML1HaKRU3gIcj5kowxZhat_Pb5Pf__'}"
     #url2 = f"https://drive.google.com/uc?id={1FwB_pcSEuu825rfzFgX1tsSfHoR1OmRY}"
     #url3 = f"https://drive.google.com/uc?id={1vC_DEdk0gkmtTHdKjoKmCrWDxKmTfMBb}"
     gdown.download(url,output_path,quiet=False)
@@ -23,7 +23,7 @@ def download_model(file_id,output_path):
 
 
 
-sei_file_id = "1chOD_3za3NuN3QFBvXyEux-lqkmtH2kA"
+sei_file_id = "1rgML1HaKRU3gIcj5kowxZhat_Pb5Pf__"
 ir_file_id = "1FwB_pcSEuu825rfzFgX1tsSfHoR1OmRY"
 soh_file_id = "1vC_DEdk0gkmtTHdKjoKmCrWDxKmTfMBb"
 
