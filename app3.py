@@ -27,7 +27,7 @@ sei_file_id = "1chOD_3za3NuN3QFBvXyEux-lqkmtH2kA"
 ir_file_id = "1FwB_pcSEuu825rfzFgX1tsSfHoR1OmRY"
 soh_file_id = "1vC_DEdk0gkmtTHdKjoKmCrWDxKmTfMBb"
 
-download_model(sei_file_id,"sei_model_.pkl")
+download_model(sei_file_id,"sei_model_clean.pkl")
 download_model(ir_file_id,"ir_model_.pkl")
 download_model(soh_file_id,"soh_model_.pkl")
 
